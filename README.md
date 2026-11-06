@@ -11,4 +11,7 @@
 *   **OS:** Arch Linux
 
 ---
-### Social:
+### 💬 Social:
+* [**Youtube**](https://www.youtube.com/@osfaldino)
+* [**Telegram**](https://t.me/osfaldino)
+
